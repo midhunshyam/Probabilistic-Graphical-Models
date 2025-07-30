@@ -22,7 +22,7 @@ This applied project explores the use of CVAEs and CGANs for controlled image ge
   - **Class**: One of 49 characters
   - **Style**: Binary classification (Thick / Thin — derived via pixel density threshold)
 
-**Source**: [Kaggle – Kuzushiji-MNIST Dataset](https://www.kaggle.com/datasets/rois-codh/kuzushiji)
+**Source**: [Kaggle – Kuzushiji-MNIST Dataset]([https://www.kaggle.com/datasets/rois-codh/kuzushiji](https://www.kaggle.com/datasets/anokas/kuzushiji))
 
 
 
