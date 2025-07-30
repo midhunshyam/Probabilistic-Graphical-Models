@@ -77,7 +77,7 @@ Generated examples (from saved report):
 - CVAE vs CGAN training outputs
 - Loss plots and reconstructions
 
-> 📄 See `PGM.pdf` for visuals and extended documentation
+> 📄 See `PGM_Report.pdf` for visuals and extended documentation
 
 
 ## Challenges
