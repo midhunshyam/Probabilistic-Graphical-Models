@@ -2,7 +2,7 @@
 
 This project implements **Conditional Variational Autoencoders (CVAE)** and **Conditional Generative Adversarial Networks (CGAN)** to generate images of classical Japanese handwritten characters from the **Kuzushiji-49** dataset. The models are conditioned on both **character class** and **writing style** (thick or thin).
 
-> NOTE: The source code was accidentally deleted. This repository currently serves as documentation and reference for potential reconstruction.
+> NOTE: The source code was accidentally deleted. This repository currently serves as documentation with the code for each section and reference for potential reconstruction.
 
 ## Project Overview
 
