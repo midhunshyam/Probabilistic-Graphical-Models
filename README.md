@@ -4,7 +4,7 @@ This project implements **Conditional Variational Autoencoders (CVAE)** and **Co
 
 > NOTE: The source code was accidentally deleted. This repository currently serves as documentation and reference for potential reconstruction.
 
-## 🧠 Project Overview
+## Project Overview
 
 - **Course**: MATH 7017 – Probabilistic Graphical Models  
 - **Author**: Midhun Shyam  
