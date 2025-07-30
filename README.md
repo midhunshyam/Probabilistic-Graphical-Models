@@ -42,7 +42,7 @@ This applied project explores the use of CVAEs and CGANs for controlled image ge
 - Loss: Binary Cross-Entropy (GAN loss)  
 - Output: New image conditioned on class and style
 
----
+
 
 ## Experiments
 
