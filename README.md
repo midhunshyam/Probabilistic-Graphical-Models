@@ -56,7 +56,7 @@ This applied project explores the use of CVAEs and CGANs for controlled image ge
   - CGAN: Tanh vs. Sigmoid outputs, activation variants
   - Style-controlled conditional generation
 
-## 📊 Results Summary
+## Results Summary
 
 | Model | Output Sharpness | Style Control | Class Control | Training Time |
 |-------|------------------|---------------|----------------|----------------|
