@@ -60,8 +60,8 @@ This applied project explores the use of CVAEs and CGANs for controlled image ge
 
 | Model | Output Sharpness | Style Control | Class Control | Training Time |
 |-------|------------------|---------------|----------------|----------------|
-| CVAE  | Moderate (blurry) | ✅ Yes        | ✅ Yes         | ⏱️ Fast        |
-| CGAN  | High (sharper)   | ✅ Yes        | ✅ Yes         | ⏱️ Longer      |
+| CVAE  | Moderate (blurry) |  Yes        |  Yes         |  Fast        |
+| CGAN  | High (sharper)   |  Yes        |  Yes         |  Longer      |
 
 - CVAE outputs lacked fine detail
 - CGAN significantly improved over epochs (notably after 1000+)
