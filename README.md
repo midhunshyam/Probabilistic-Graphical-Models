@@ -1,7 +1,6 @@
 # Probabilistic-Graphical-Models
 > Conditional Generation of Kuzushiji Characters using CVAE and CGAN
 
-**Author**: Midhun Shyam  
 
 This applied project explores the use of Conditional Variational Autoencoders (CVAE) and Conditional Generative Adversarial Networks (CGAN) for controlled image generation based on categorical labels. The models were implemented to generate images of classical Japanese handwritten characters from the Kuzushiji-49 dataset, conditioned on both character class and writing style (thick or thin). The project covers architectural design, training methodology, and comparative evaluation of the two generative frameworks, analysing reconstruction fidelity, latent space structure, and style control performance.
 
