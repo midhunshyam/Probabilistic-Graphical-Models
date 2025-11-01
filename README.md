@@ -1,17 +1,10 @@
 # Probabilistic-Graphical-Models
 > Conditional Generation of Kuzushiji Characters using CVAE and CGAN 
+**Author**: Midhun Shyam  
 
-This project implements **Conditional Variational Autoencoders (CVAE)** and **Conditional Generative Adversarial Networks (CGAN)** to generate images of classical Japanese handwritten characters from the **Kuzushiji-49** dataset. The models are conditioned on both **character class** and **writing style** (thick or thin).
+This applied project explores the use of Conditional Variational Autoencoders (CVAE) and Conditional Generative Adversarial Networks (CGAN) for controlled image generation based on categorical labels. The models were implemented to generate images of classical Japanese handwritten characters from the Kuzushiji-49 dataset, conditioned on both character class and writing style (thick or thin). The project covers architectural design, training methodology, and comparative evaluation of the two generative frameworks, analysing reconstruction fidelity, latent space structure, and style control performance.
 
 NOTE: The `PGM_Report.pdf` contains detailed description of this project and its results. The source code was accidentally deleted. This repository currently serves as documentation with the code for each section and reference for potential reconstruction.
-
-## Project Overview
-
-- **Course**: MATH 7017 – Probabilistic Graphical Models  
-- **Author**: Midhun Shyam  
-- **Institution**: Western Sydney University  
-
-This applied project explores the use of CVAEs and CGANs for controlled image generation based on categorical labels. It includes architectural design, training methodology, and comparative evaluation.
 
 
 ## Dataset: Kuzushiji-49 (Kaggle)
@@ -100,6 +93,6 @@ Generated examples (from saved report):
 To recover this project:
 
 1. Recreate preprocessing pipeline (`.npz` loading, normalisation, label encoding)
-2. Rebuild CVAE & CGAN using PyTorch (reference architecture in report)
+2. Rebuild CVAE & CGAN using PyTorch (reference architecture in `PGM_Report.pdf` for codes)
 3. Use saved model weights (`.pth`) if available
 4. Retrain and re-plot loss curves + generated examples
