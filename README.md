@@ -15,7 +15,7 @@ NOTE: The `PGM_Report.pdf` contains detailed description of this project and its
   - **Class**: One of 49 characters
   - **Style**: Binary classification (Thick / Thin — derived via pixel density threshold)
 
-**Source**: [Kaggle – Kuzushiji-MNIST Dataset]([https://www.kaggle.com/datasets/rois-codh/kuzushiji](https://www.kaggle.com/datasets/anokas/kuzushiji))
+The data is available on [Kaggle – Kuzushiji-MNIST Dataset]([https://www.kaggle.com/datasets/rois-codh/kuzushiji](https://www.kaggle.com/datasets/anokas/kuzushiji))
 
 
 
