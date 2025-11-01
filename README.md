@@ -87,12 +87,7 @@ Generated examples (from saved report):
 - Use higher-dimensional latent spaces in CVAE  
 - Apply transfer learning to multi-language or ancient script datasets  
 
-
-## Code Restoration Plan
-
 To recover this project:
-
 1. Recreate preprocessing pipeline (`.npz` loading, normalisation, label encoding)
 2. Rebuild CVAE & CGAN using PyTorch (reference architecture in `PGM_Report.pdf` for codes)
-3. Use saved model weights (`.pth`) if available
-4. Retrain and re-plot loss curves + generated examples
+
