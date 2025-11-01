@@ -9,7 +9,6 @@ This project implements **Conditional Variational Autoencoders (CVAE)** and **Co
 - **Course**: MATH 7017 – Probabilistic Graphical Models  
 - **Author**: Midhun Shyam  
 - **Institution**: Western Sydney University  
-- **Supervisors**: Prof. Oliver Obst & Stuart Fitzpatrick
 
 This applied project explores the use of CVAEs and CGANs for controlled image generation based on categorical labels. It includes architectural design, training methodology, and comparative evaluation.
 
